@@ -7,7 +7,7 @@
  */
 
 html {
-  font-family: sans-serif; /* 1 */
+  font-family: cursive; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -140,7 +140,7 @@ h1 {
  */
 
 mark {
-  background: #ff0;
+  background: rgb(82, 205, 209);
   color: #000;
 }
 
@@ -149,7 +149,7 @@ mark {
  */
 
 small {
-  font-size: 80%;
+  font-size: 100%;
 }
 
 /**
