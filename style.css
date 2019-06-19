@@ -1,20 +1,20 @@
 /* Body styling */
 body {
-  background: #713e94;
+  background: linear-gradient(to bottom, #ff9999 0%, #ffccff 100%);
   color: #fff;
-  font-family: Helvetica, Arial;
-  font-size: 27px;
+  font-family: "Brush", cursive;
+  font-size: 40px;
   font-weight: 300;
   line-height: 1.65em;
   margin: 0 auto;
   max-width: 960px;
-  padding: 40px 10px;  
+  padding: 5px 5px;  
 }
 
 
 /* Heading Styles */
 h1 {
-  font-size: 60px;
+  font-size: 70px;
   color: #fff;
   text-align: center;
 }
@@ -35,9 +35,9 @@ h1 {
   color: #fff;
   cursor: pointer; 
   display: block;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;  
-  margin: 0 auto 60px;
+  margin: 0 auto 30px;
   padding: 1em 2em; 
   text-align: center; 
 }
@@ -79,7 +79,7 @@ h1 {
 }
 
 .highlight {
-  font-size: 18px;
+  font-size: 30px;
   line-height: 24px;
   margin-left: 30px;
   opacity: .8;
@@ -89,7 +89,7 @@ h1 {
 
 /* Answer Div */
 #answers {
-  margin: 60px 0;
+  margin: 30px 0;
   background: #fff;
   border-radius: 6px;
   color: #713e94;
