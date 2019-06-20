@@ -1,14 +1,14 @@
 /* Body styling */
 body {
-  background: linear-gradient(to bottom, #ff9999 0%, #ffccff 100%);
+  background-image: linear-gradient(to bottom, #ff6699 0%, #ffcc99 100%);
   color: #fff;
-  font-family: "Brush", cursive;
+  font-family: 'Henny Penny';
   font-size: 40px;
   font-weight: 300;
   line-height: 1.65em;
   margin: 0 auto;
   max-width: 960px;
-  padding: 5px 5px;  
+  padding: 40px 10px;  
 }
 
 
@@ -37,7 +37,7 @@ h1 {
   display: block;
   font-size: 30px;
   font-weight: bold;  
-  margin: 0 auto 30px;
+  margin: 0 auto 60px;
   padding: 1em 2em; 
   text-align: center; 
 }
@@ -57,7 +57,7 @@ h1 {
 }
 
 .choice-bucket label {
-  font-size: 12px;
+  font-size: 30px;
   line-height: 13px;
   margin: 15px 4%;
 }
@@ -65,8 +65,8 @@ h1 {
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  color: #713e94;
-  font-size: 18px;
+  color: #48D1CC;
+  font-size: 20px;
   margin: 15px 4%;
   outline: 0;
   padding: 16px 0;
@@ -79,7 +79,7 @@ h1 {
 }
 
 .highlight {
-  font-size: 30px;
+  font-size: 20px;
   line-height: 24px;
   margin-left: 30px;
   opacity: .8;
@@ -89,7 +89,7 @@ h1 {
 
 /* Answer Div */
 #answers {
-  margin: 30px 0;
+  margin: 60px 0;
   background: #fff;
   border-radius: 6px;
   color: #713e94;
